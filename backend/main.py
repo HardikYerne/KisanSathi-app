@@ -1301,10 +1301,3 @@ $env:GIT_COMMITTER_DATE="2026-9-22T12:00:00+05:30"
 
 git commit -m "data processing"
 git push
-git add .
-
-$env:GIT_AUTHOR_DATE="2026-9-22T12:00:00+05:30"
-$env:GIT_COMMITTER_DATE="2026-9-22T12:00:00+05:30"
-
-git commit -m "data processing"
-git push
