@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "KisanSathi AI",
+    "slug": "kisansathi-ai-farming-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#F4F7EF", "resizeMode": "contain" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#176B42" } },
+    "plugins": ["expo-image-picker"]
+  }
+}

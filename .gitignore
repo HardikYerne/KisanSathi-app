@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+build/
+coverage/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Testing
+.nyc_output/
